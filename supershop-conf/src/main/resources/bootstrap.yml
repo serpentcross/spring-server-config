@@ -7,3 +7,4 @@ spring:
       server:
         git:
           uri: https://github.com/serpentcross/spring-server-config.git
+          force-pull: true
